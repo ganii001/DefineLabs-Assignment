@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DefineLabs Assignment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Define Labs Assignment</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_all">All Matches</string>
+    <string name="menu_saved">Saved Matches</string>
+    <string name="no_records_found">No Records Found...!</string>
+</resources>

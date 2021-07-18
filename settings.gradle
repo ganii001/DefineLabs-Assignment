@@ -1,0 +1,2 @@
+rootProject.name = "DefineLabs Assignment"
+include ':app'
